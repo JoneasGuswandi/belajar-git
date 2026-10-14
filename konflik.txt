@@ -1,3 +1,4 @@
-Baris 1:pembuka
-Baris 2: Baris 2: diubah pada branch utama
-Baris 3:Penutup
+Baris 1: pembuka
+Baris 2: gabungan dari branch utama dan revisi-judul
+Baris 3: penutup
+
